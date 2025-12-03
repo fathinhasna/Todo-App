@@ -319,6 +319,8 @@ function TodoApp() {
               <br/>• Click checkbox to mark complete
               <br/>• Click edit icon to modify task
               <br/>• Press Enter to add/edit quickly
+              <br/>• Click bin icon to delete a task
+
             </Typography>
           </Box>
         </Paper>
